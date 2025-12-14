@@ -1,0 +1,22 @@
+# C++ build artifacts
+build/
+**/build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.pyc
+.vscode/
+
+# Virtual environments
+vsnv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
